@@ -1,4 +1,5 @@
 # Arogya Wellness Assistant
+A multi-agent orchestration framework built using **LangChain** that coordinates specialized agents to analyze user symptoms and deliver personalized wellness guidance across diet, fitness, and lifestyle.
 
 <div align="center">
   <img src="assets/arogya-logo.png" alt="Arogya Logo" width="560"/>
